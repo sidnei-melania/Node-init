@@ -12,9 +12,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license":"ISC",
   "prisma": {
-    "seed": "tsx prisma/seed.ts"
+    "seed":"tsx prisma/seed.ts"
   },
   "devDependencies": {
     "@types/node": "20.11.30",
